@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- I'm currently doing [PyLadies Python course online](https://naucse.python.cz/course/pyladies/)
-- All my repositories are set to provate for now
-- Will share my personal projects here soon
+- I'm currently learning Python programming
+- You can find here my first project that simulates a slot machine game
+- Will share more of my personal projects here in the future
